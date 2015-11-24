@@ -4,7 +4,7 @@
 Arduino Sample sketch to develop your own Capacitance Meter. Please kindly visit out tutorial site for full explanation and circuit connection. <br/>
 
 <b>Tutorial:</b>
-<ul><li><a href="http://tutorial.cytron.com.my/2011/09/19/capacitance-meter/" target="_blank"></a></li>
+<ul><li><a href="http://tutorial.cytron.com.my/2011/09/19/capacitance-meter/" target="_blank">Capacitance meter</a></li>
 </ul>
 <b>Hardware:</b>
 <ul><li>Please refer to the tutorial site</li>
